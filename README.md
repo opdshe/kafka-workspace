@@ -1,5 +1,7 @@
 # kafka-workspace  
 
+## CS, Java, Spring 등 기본기 복습을 위해 카프카 학습 잠정 중단
+
 ## 카프카의 철학
 <img src ="image/지향점.png" width="400" height="300">  
 
